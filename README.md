@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ solution URL ](https://your-solution-url.com)
-- Live Site URL: [ https://arrifuber.github.io/Testimonial-Grid-Section/ ](https://your-live-site-url.com)
+- Live Site URL: [ Live Site URL ](https://arrifuber.github.io/Testimonial-Grid-Section/)
 
 ## My process
 
